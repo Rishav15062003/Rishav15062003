@@ -1,5 +1,13 @@
 # Hi, I'm Rishav Singh
 
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1200&color=0A66C2&width=700&lines=Software+Developer;Python+%7C+Kotlin+%7C+TypeScript;Security+and+Full-Stack+Project+Builder" alt="Typing intro" />
+</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Rishav15062003&label=Profile%20views&color=0A66C2&style=flat)
+![Open to Work](https://img.shields.io/badge/Open%20to-Internships%20%26%20Entry--Level%20Roles-1f6feb)
+![Focus](https://img.shields.io/badge/Focus-Security%20%7C%20Backend%20%7C%20Full--Stack-6f42c1)
+
 Software Developer focused on building practical applications with Python, Kotlin, and TypeScript.
 
 I enjoy solving real-world problems across backend systems, security tooling, and full-stack development.
@@ -23,6 +31,15 @@ I enjoy solving real-world problems across backend systems, security tooling, an
 - Growing as a developer through consistent shipping and iterative improvements
 
 ## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+![Android%20Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white)
 
 - Languages: Python, Kotlin, TypeScript, JavaScript, HTML, CSS
 - Tools: Git, GitHub, VS Code, IntelliJ IDEA, Android Studio
