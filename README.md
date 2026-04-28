@@ -1,12 +1,12 @@
 # Hi, I'm Rishav Singh
 
-Software Developer focused on building practical applications using Python, Kotlin, and TypeScript.
+Software Developer focused on building practical applications with Python, Kotlin, and TypeScript.
 
 I enjoy solving real-world problems across backend systems, security tooling, and full-stack development.
 
 ## About Me
 
-- Building hands-on projects and improving software engineering fundamentals
+- Building practical projects and improving software engineering fundamentals
 - Interested in security engineering, backend architecture, and reliable APIs
 - Open to internships and entry-level software developer opportunities
 
@@ -15,6 +15,12 @@ I enjoy solving real-world problems across backend systems, security tooling, an
 - Developing and improving `security-operations-suite`
 - Building product features in `docvault-app`
 - Practicing DSA and system design consistently
+
+## Professional Highlights
+
+- Building end-to-end projects with clear documentation and maintainable code
+- Applying security-first thinking in project design and implementation
+- Growing as a developer through consistent shipping and iterative improvements
 
 ## Tech Stack
 
@@ -33,6 +39,12 @@ A Kotlin-based document-focused application.
 ### [my_portfolio](https://github.com/Rishav15062003/my_portfolio)
 Portfolio website showcasing projects, skills, and profile details.
 
+## Currently Learning
+
+- Scalable backend design and API reliability patterns
+- Advanced data structures, algorithms, and problem solving
+- Security operations workflows and detection engineering fundamentals
+
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rishav15062003&show_icons=true&hide_border=true)
@@ -40,9 +52,9 @@ Portfolio website showcasing projects, skills, and profile details.
 
 ## Connect
 
-- LinkedIn: https://www.linkedin.com/in/your-linkedin-username
-- Email: yourname@email.com
+- LinkedIn: https://www.linkedin.com/in/rishav-singh-660488292/
+- Email: rishavrajput2022@gmail.com
 
 ---
 
-I am open to collaborating on practical projects with real impact.
+I am open to internships, entry-level roles, and collaboration on practical projects with real impact.
