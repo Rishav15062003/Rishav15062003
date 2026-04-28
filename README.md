@@ -54,6 +54,9 @@ I enjoy solving real-world problems across backend systems, security tooling, an
 
 ## Featured Projects
 
+### [organic-vs-non-organic-fruit-classification](https://github.com/Rishav15062003/organic-vs-non-organic-fruit-classification)
+Production-ready VGG16 image classification system with transfer learning, Grad-CAM explainability, threshold tuning, and FastAPI deployment support.
+
 ### [security-operations-suite](https://github.com/Rishav15062003/security-operations-suite)
 Security-focused tooling and automation workflows for blue-team style analysis.
 
@@ -82,23 +85,3 @@ Portfolio website showcasing projects, skills, and profile details.
 ---
 
 I am open to internships, entry-level roles, and collaboration on practical projects with real impact.
-
----
-
-## 🚀 Featured Project: Organic vs Non-Organic Fruit Classification
-
-Production-ready binary image classification system using **VGG16 transfer learning** and **fine-tuning**.
-
-### Highlights
-- VGG16 (ImageNet, include_top=False, 224x224)
-- Two-phase training: frozen backbone -> fine-tuning
-- Metrics: Accuracy, Precision, Recall, F1-score, ROC-AUC
-- Explainability with Grad-CAM
-- Threshold tuning for best F1
-- FastAPI inference API + HTML UI
-- Docker-ready deployment
-
-### Tech Stack
-`Python` `TensorFlow` `Keras` `scikit-learn` `FastAPI` `OpenCV` `Pillow` `Docker` `pytest`
-
-🔗 [Project Repository](https://github.com/Rishav15062003/organic-vs-non-organic-fruit-classification)
