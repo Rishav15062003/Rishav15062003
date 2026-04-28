@@ -60,7 +60,7 @@ Security-focused tooling and automation workflows for blue-team style analysis.
 ### [organic-vs-non-organic-fruit-classification](https://github.com/Rishav15062003/organic-vs-non-organic-fruit-classification)
 Production-ready VGG16 image classification system with transfer learning, Grad-CAM explainability, threshold tuning, and FastAPI deployment support.
 
-### Spam Detection System
+### [Spam Detection System](https://github.com/Rishav15062003/Spam_Detection)
 Machine learning classification project for spam vs legitimate messages using preprocessing, feature engineering, and model evaluation workflows.
 
 ### [docvault-app](https://github.com/Rishav15062003/docvault-app)
