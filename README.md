@@ -54,11 +54,11 @@ I enjoy solving real-world problems across backend systems, security tooling, an
 
 ## Featured Projects
 
-### [organic-vs-non-organic-fruit-classification](https://github.com/Rishav15062003/organic-vs-non-organic-fruit-classification)
-Production-ready VGG16 image classification system with transfer learning, Grad-CAM explainability, threshold tuning, and FastAPI deployment support.
-
 ### [security-operations-suite](https://github.com/Rishav15062003/security-operations-suite)
 Security-focused tooling and automation workflows for blue-team style analysis.
+
+### [organic-vs-non-organic-fruit-classification](https://github.com/Rishav15062003/organic-vs-non-organic-fruit-classification)
+Production-ready VGG16 image classification system with transfer learning, Grad-CAM explainability, threshold tuning, and FastAPI deployment support.
 
 ### [docvault-app](https://github.com/Rishav15062003/docvault-app)
 A Kotlin-based document-focused application.
