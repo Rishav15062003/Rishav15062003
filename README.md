@@ -30,6 +30,13 @@ I enjoy solving real-world problems across backend systems, security tooling, an
 - Applying security-first thinking in project design and implementation
 - Growing as a developer through consistent shipping and iterative improvements
 
+## Impact Highlights
+
+- Built a security suite with 5 integrated modules for log analysis, traffic analysis, cloud checks, phishing detection, and attack-surface review
+- Implemented support for multiple input formats including authentication logs, `.pcap/.pcapng`, and structured cloud configuration exports
+- Delivered an Android document vault app with secure local storage, SHA-256 duplicate detection, and PIN/biometric lock
+- Shipped and maintained multiple public repositories with active improvements across Python, Kotlin, and TypeScript projects
+
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
