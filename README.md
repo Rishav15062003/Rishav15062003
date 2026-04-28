@@ -24,13 +24,13 @@ I enjoy solving real-world problems across backend systems, security tooling, an
 
 ## Featured Projects
 
-### security-operations-suite
-Security-focused scripts and automation workflows.
+### [security-operations-suite](https://github.com/Rishav15062003/security-operations-suite)
+Security-focused tooling and automation workflows for blue-team style analysis.
 
-### docvault-app
+### [docvault-app](https://github.com/Rishav15062003/docvault-app)
 A Kotlin-based document-focused application.
 
-### my_portfolio
+### [my_portfolio](https://github.com/Rishav15062003/my_portfolio)
 Portfolio website showcasing projects, skills, and profile details.
 
 ## GitHub Stats
