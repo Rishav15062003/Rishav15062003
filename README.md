@@ -69,9 +69,6 @@ Machine learning classification project for spam vs legitimate messages using pr
 ### [docvault-app](https://github.com/Rishav15062003/docvault-app)
 A Kotlin-based document-focused application.
 
-### [my_portfolio](https://github.com/Rishav15062003/my_portfolio)
-Portfolio website showcasing projects, skills, and profile details.
-
 ## Currently Learning
 
 - Scalable backend design and API reliability patterns
