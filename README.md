@@ -54,6 +54,9 @@ I enjoy solving real-world problems across backend systems, security tooling, an
 
 ## Featured Projects
 
+### [cyber-news-platform (CyberPulse)](https://github.com/Rishav15062003/cyber-news-platform)
+Local-first cybersecurity news intelligence platform with trusted-source aggregation, AI article briefs, CVE enrichment, incident clustering, source health tracking, and a React dashboard with 5-10 minute automated refresh visibility.
+
 ### [security-operations-suite](https://github.com/Rishav15062003/security-operations-suite)
 Security-focused tooling and automation workflows for blue-team style analysis.
 
