@@ -8,7 +8,7 @@
 ![Open to Work](https://img.shields.io/badge/Open%20to-Internships%20%26%20Entry--Level%20Roles-1f6feb)
 ![Focus](https://img.shields.io/badge/Focus-Security%20%7C%20Backend%20%7C%20Full--Stack-6f42c1)
 
-Software Developer focused on building practical applications with Python, Kotlin, and TypeScript.
+Cyber Security focused on building practical applications with Python, Kotlin, and C++.
 
 I enjoy solving real-world problems across backend systems, security tooling, and full-stack development.
 
@@ -48,7 +48,7 @@ I enjoy solving real-world problems across backend systems, security tooling, an
 ![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![Android%20Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white)
 
-- Languages: Python, Kotlin, TypeScript, JavaScript, HTML, CSS
+- Languages: Python, Kotlin, C++, HTML, CSS
 - Tools: Git, GitHub, VS Code, IntelliJ IDEA, Android Studio
 - Areas: Security tooling, backend development, automation, clean code practices
 
